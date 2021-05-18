@@ -1,5 +1,5 @@
 # gsoc2021.py
-This programmme scrap the GSoC 2021 website (https://www.summerofcode.withgoogle.com/projects) and stores the data in a csv file in the following format: Name,Organization,Project
+This programmme scrap the GSoC 2021 website (https://summerofcode.withgoogle.com/projects/) and stores the data in a csv file in the following format: Name,Organization,Project
 It uses 'requests', 'bs4',and 'selenium' libraries in python.
 
 ## Running the programme
